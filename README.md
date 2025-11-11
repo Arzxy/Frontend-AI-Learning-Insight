@@ -11,7 +11,7 @@
 ### Ringkasan Proyek
 **AI Learning Insight** adalah dashboard modern yang dibangun menggunakan **React (Vite)**, **Tailwind CSS**, dan **shadcn/ui** untuk memvisualisasikan perilaku belajar pengguna, melacak kemajuan, dan memberikan wawasan yang dipersonalisasi didukung oleh kecerdasan buatan (AI).  
 
-> Proyek ini merupakan bagian dari *Asah 2025 Challenge* — dirancang untuk menganalisis dataset dummy dari Dicoding dan menyajikan rekomendasi pembelajaran yang bermakna.
+> Proyek ini merupakan bagian dari *Capstone Asah 2025* — dirancang untuk menganalisis dataset dummy dari Dicoding dan menyajikan rekomendasi pembelajaran yang bermakna.
 
 ---
 
