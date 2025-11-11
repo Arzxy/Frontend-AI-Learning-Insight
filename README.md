@@ -8,14 +8,14 @@
 
 ---
 
-### 📌 Overview  
-**AI Learning Insight** is a modern dashboard built with **React (Vite)**, **Tailwind CSS**, and **shadcn/ui** to visualize user learning behavior, track progress, and deliver personalized AI-powered insights.  
+### 📌 Ringkasan  
+**AI Learning Insight** adalah dashboard modern yang dibangun menggunakan **React (Vite)**, **Tailwind CSS**, dan **shadcn/ui** untuk memvisualisasikan perilaku belajar pengguna, melacak kemajuan, dan memberikan wawasan yang dipersonalisasi didukung oleh kecerdasan buatan (AI).  
 
-> This project is part of the *Asah 2025 Challenge* — designed to analyze dummy datasets from Dicoding and present meaningful learning recommendations.
+> Proyek ini merupakan bagian dari *Asah 2025 Challenge* — dirancang untuk menganalisis dataset dummy dari Dicoding dan menyajikan rekomendasi pembelajaran yang bermakna.
 
 ---
 
-### 🚀 Tech Stack  
+### 🚀 Struktur Penggunaan  
 - ⚛️ **React (Vite)** — Lightning-fast frontend framework  
 - 🎨 **Tailwind CSS** — Utility-first styling  
 - 💎 **shadcn/ui** — Reusable UI components  
@@ -25,17 +25,23 @@
 ---
 
 ### ✨ Features  
-✅ **Learning Activity Chart** – Displays study time trends per week  
-✅ **Insight Cards** – Show user learning type (Fast, Consistent, Reflective)  
-✅ **Progress Visualization** – Track course & quiz completion  
-✅ **AI Recommendation Tips** – Personalized learning feedback  
-✅ **Responsive Dashboard** – Designed for desktop & mobile  
+✅ **Learning Activity Chart** – Menampilkan tren waktu belajar per minggu  
+✅ **Insight Cards** – Tampilkan jenis belajar pengguna (Cepat, Konsisten, Reflektif)  
+✅ **Progress Visualization** – Lacak penyelesaian kursus dan kuis  
+✅ **AI Recommendation Tips** – Umpan balik pembelajaran yang disesuaikan secara pribadi  
+✅ **Responsive Dashboard** – Dirancang untuk desktop dan android  
 
 ---
 
-### 🛠️ Installation  
+### 🛠️ Instalasi  
 
 Clone this repository:
 ```bash
 git clone https://github.com/Arzxy/Frontend-AI-Learning-Insight.git
 cd Frontend-AI-Learning-Insight
+```
+
+Install dependencies::
+```bash
+npm install
+```
