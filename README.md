@@ -8,23 +8,23 @@
 
 ---
 
-### 📌 Ringkasan  
+### Ringkasan Proyek
 **AI Learning Insight** adalah dashboard modern yang dibangun menggunakan **React (Vite)**, **Tailwind CSS**, dan **shadcn/ui** untuk memvisualisasikan perilaku belajar pengguna, melacak kemajuan, dan memberikan wawasan yang dipersonalisasi didukung oleh kecerdasan buatan (AI).  
 
 > Proyek ini merupakan bagian dari *Asah 2025 Challenge* — dirancang untuk menganalisis dataset dummy dari Dicoding dan menyajikan rekomendasi pembelajaran yang bermakna.
 
 ---
 
-### 🚀 Struktur Penggunaan  
-- ⚛️ **React (Vite)** — Lightning-fast frontend framework  
-- 🎨 **Tailwind CSS** — Utility-first styling  
-- 💎 **shadcn/ui** — Reusable UI components  
-- 📊 **Recharts** — Interactive charts for analytics  
-- ⚙️ **PostCSS + Autoprefixer** — Optimized CSS build  
+### Struktur Penggunaan  
+- **React (Vite)** — Lightning-fast frontend framework  
+- **Tailwind CSS** — Utility-first styling  
+- **shadcn/ui** — Reusable UI components  
+- **Recharts** — Interactive charts for analytics  
+- **PostCSS + Autoprefixer** — Optimized CSS build  
 
 ---
 
-### ✨ Features  
+### Features  
 ✅ **Learning Activity Chart** – Menampilkan tren waktu belajar per minggu  
 ✅ **Insight Cards** – Tampilkan jenis belajar pengguna (Cepat, Konsisten, Reflektif)  
 ✅ **Progress Visualization** – Lacak penyelesaian kursus dan kuis  
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Instalasi  
+### Instalasi Proyek
 
 Clone this repository:
 ```bash
@@ -44,4 +44,9 @@ cd Frontend-AI-Learning-Insight
 Install dependencies::
 ```bash
 npm install
+```
+
+Run the app:
+```bash
+npm run dev
 ```
