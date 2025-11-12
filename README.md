@@ -19,7 +19,8 @@
 - **React (Vite)** — Lightning-fast frontend framework  
 - **Tailwind CSS** — Utility-first styling  
 - **shadcn/ui** — Reusable UI components  
-- **Recharts** — Interactive charts for analytics  
+- **Recharts** — Interactive charts for analytics
+- **Lucide Icons** - for Icon design
 - **PostCSS + Autoprefixer** — Optimized CSS build  
 
 ---
