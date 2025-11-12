@@ -9,19 +9,19 @@
 ---
 
 ### Ringkasan Proyek
-**AI Learning Insight** adalah dashboard modern yang dibangun menggunakan **React (Vite)**, **Tailwind CSS**, dan **shadcn/ui** untuk memvisualisasikan perilaku belajar pengguna, melacak kemajuan, dan memberikan wawasan yang dipersonalisasi didukung oleh kecerdasan buatan (AI).  
+**AI Learning Insight** adalah dashboard modern yang dibangun menggunakan **React (Vite)**, **Tailwind CSS**, **Lucide Icons**, dan **shadcn/ui** untuk memvisualisasikan perilaku belajar pengguna, melacak kemajuan, dan memberikan wawasan yang dipersonalisasi didukung oleh kecerdasan buatan (AI).  
 
 > Proyek ini merupakan bagian dari *Capstone Asah 2025* — dirancang untuk menganalisis dataset dummy dari Dicoding dan menyajikan rekomendasi pembelajaran yang bermakna.
 
 ---
 
 ### Struktur Penggunaan  
-- **React (Vite)** — Lightning-fast frontend framework  
-- **Tailwind CSS** — Utility-first styling  
-- **shadcn/ui** — Reusable UI components  
-- **Recharts** — Interactive charts for analytics
+- **React (Vite)** - Lightning-fast frontend framework  
+- **Tailwind CSS** - Utility-first styling  
+- **Shadcn/Ui** - Reusable UI components  
+- **Recharts** - Interactive charts for analytics
 - **Lucide Icons** - for Icon design
-- **PostCSS + Autoprefixer** — Optimized CSS build  
+- **PostCSS + Autoprefixer** - Optimized CSS build  
 
 ---
 
